@@ -1,2 +1,4 @@
-axiom/.vagrant
-frankfurter/build
+*.pyc
+*.o
+**/.DS_Store
+bin/
